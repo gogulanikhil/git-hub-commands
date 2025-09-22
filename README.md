@@ -1,2 +1,2 @@
 # git-hub-commands
-git commands exposure with fetch vs pull
+git commands exposure with fetch vs pull to check
